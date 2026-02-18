@@ -1,7 +1,7 @@
 # 🛠️ System Inventory Tool (Automation Script)
 
 ### 💡 Overview
-**System Inventory Tool** is a robust Python-based automation script designed to streamline hardware auditing and asset management. This project was inspired by my real-world experience managing **150+ workstations** during my IT cooperative training at **Arab Open University**, where I identified the need to replace manual data entry with an automated, error-free solution.
+**System Inventory Tool** is a robust Python-based automation script designed to streamline hardware auditing and asset management. This project was inspired by my real-world experience managing **120+ workstations** during my IT cooperative training at **Arab Open University**, where I identified the need to replace manual data entry with an automated, error-free solution.
 
 ### 🚀 Key Features
 * **Smart "Update or Add" Logic:** Automatically detects if a device is already in the registry based on the Device Name. It updates technical specs while preserving manual entries like "Physical Location" and "Notes".
